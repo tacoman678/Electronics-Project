@@ -12,4 +12,4 @@ This project demonstrates a simple web server running on an ESP32 microcontrolle
 ## Schematic:
 ![Schematic](https://danbajda.com/static/310a.png)
 ## Webserver Example:
-![Webserver Demo](https://danbajda.com/static/310b.png)
+![Webserver Demo](https://danbajda.com/static/e310b.png)
